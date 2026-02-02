@@ -4,7 +4,7 @@ Soluciones tecnológicas avanzadas para la **infraestructura ferroviaria** y el 
 
 ## 🚀 Sitio Web
 Puedes visitar la página oficial en vivo aquí:
-👉 [https://andreschinza1-bot.github.io/nexus-rail-projectt/](https://andreschinza1-bot.github.io/nexus-rail-projectt/)
+👉 [https://andreschinza1-bot.github.io/nexus-rail-projectt/](https://andreschinza1-bot.github.io/nexus-rail-projec/)
 
 ## 📂 Contenido del Proyecto
 El repositorio está organizado de la siguiente manera:
